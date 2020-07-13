@@ -484,7 +484,7 @@
             },
             ".mbr-section-title": {
               "letter-spacing": "0.1em",
-              "color": "#1999ec"
+              "color": "#3e97d1"
             },
             ".mbr-section-title span": {
               "color": "#ffbc00"
