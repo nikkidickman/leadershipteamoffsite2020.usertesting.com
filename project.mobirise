@@ -48,7 +48,8 @@
       }
     ],
     "uniqCompNum": 16,
-    "versionPublish": "4.11.6"
+    "versionPublish": "4.11.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
